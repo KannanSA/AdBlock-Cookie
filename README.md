@@ -54,5 +54,5 @@ We may update this Privacy Policy to reflect changes in the extension or legal r
 
 7. Contact Us
 
-If you have any questions about this policy, please open an issue in the AdBlock Cookie project repository or contact us at privacy@adblockcookie.example.com.
+If you have any questions about this policy, please open an issue in the AdBlock Cookie project repository or contact us at kannansekara@gmail.com.
 
